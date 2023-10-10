@@ -1,7 +1,13 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Brnada
 coach: Grace
+=======
+manager: Kenneth
+manager: Deborah
+coach: Ruth
+>>>>>>> to-merge
 
 members:
   - Linda
