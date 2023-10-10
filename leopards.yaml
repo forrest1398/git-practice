@@ -1,8 +1,14 @@
 team: Leopards
 
+<<<<<<< HEAD
 manager: Kang
 
 coach: Melissa
+=======
+manager: Loopi
+
+coach: Ho
+>>>>>>> e4d0cdea1469157da1cfc50598ff72a0642c641f
 
 members:
   - Linda
